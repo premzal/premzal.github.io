@@ -10,7 +10,7 @@
   - [**PCB Design for Sprinkle Bot:**](#pcb-design-for-sprinkle-bot)
   - [**Sprinkle Bot Enclosure:**](#sprinkle-bot-enclosure)
   - [**Hardware Used for Sprinkle Bot:**](#hardware-used-for-sprinkle-bot)
-  - [**Website Documentation:**](#website-documentation)
+  - [**Website:**](#website)
   - [**Video Demo of Sprinkle Bot:**](#video-demo-of-sprinkle-bot)
   
 
@@ -52,6 +52,6 @@
 | Water Pumps | 2 |
 | Tubing for Water Pumps | 4 |
   
-### **Website Documentation:**
+### **Website:**
 
 ### **Video Demo of Sprinkle Bot:**
